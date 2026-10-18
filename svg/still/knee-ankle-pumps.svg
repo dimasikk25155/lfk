@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Попеременные натягивания стоп сидя">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#e34948"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M172 250 L384 256" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round"/>
+  <path d="M384 256 L410 268" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M140 188 L104 226 L88 260" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="330" cy="262" rx="54" ry="17" fill="#e34948" opacity="0.18"/>
+  <g data-torso="1"><path d="M172 258 L132 178" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M157 265 L117 185" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M187 251 L147 171" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M132 178 L122 162" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="114" cy="146" r="24" fill="#1F2A37"/><g transform="rotate(22 114 146)"><path d="M133 141 L146 147 L132 153 Z" fill="#1F2A37"/><circle cx="122" cy="138" r="4.6" fill="#EFF2F5"/><path d="M119 152 Q126 161 133 152" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M144 192 L106 230 L90 264" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172 262 L390 268" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M390 268 L398 238" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M436 254 L436 214" fill="none" stroke="#e34948" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M436 288 L436 324" fill="none" stroke="#e34948" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Растяжка сгибателя на краю кровати">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d55181"/></marker></defs>
+  <ellipse cx="236" cy="178" rx="26" ry="32" transform="rotate(24.8 236 178)" fill="#d55181" opacity="0.20"/>
+  <path d="M204 184 L196 234" fill="none" stroke="#d55181" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

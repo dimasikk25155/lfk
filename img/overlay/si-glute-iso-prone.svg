@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Изометрия ягодиц лёжа на животе">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d95926"/></marker></defs>
+  <ellipse cx="278" cy="244" rx="30" ry="22" fill="#d95926" opacity="0.20"/>
+  <path d="M242 178 L266 214" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M320 178 L292 214" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

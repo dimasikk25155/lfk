@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Разводка гантелей лёжа на полу">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#4a3aa7"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="292" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <ellipse cx="240" cy="196" rx="52" ry="24" fill="#4a3aa7" opacity="0.20"/>
+  <path d="M212 210 L166 168 L128 134" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M268 210 L314 168 L352 134" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"><circle cx="106" cy="112" r="13"/><circle cx="132" cy="98" r="13"/><rect x="112" y="100" width="16" height="10" rx="3" transform="rotate(-28 120 105)"/></g>
+  <g fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"><circle cx="374" cy="112" r="13"/><circle cx="348" cy="98" r="13"/><rect x="352" y="100" width="16" height="10" rx="3" transform="rotate(28 360 105)"/></g>
+  <g data-torso="1"><path d="M240 158 L240 288" fill="none" stroke="#1F2A37" stroke-width="52" stroke-linecap="round"/><path d="M240 158 L240 288" fill="none" stroke="#C0524A" stroke-width="12" stroke-linecap="round"/></g>
+  <path d="M240 146 L240 158" fill="none" stroke="#1F2A37" stroke-width="16" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="240" cy="122" r="24" fill="#1F2A37"/><circle cx="232" cy="116" r="4.6" fill="#EFF2F5"/><circle cx="248" cy="116" r="4.6" fill="#EFF2F5"/><path d="M232 127 Q240 136 248 127" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M120 172 A 90 90 0 0 1 156 130" fill="none" stroke="#4a3aa7" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M360 172 A 90 90 0 0 0 324 130" fill="none" stroke="#4a3aa7" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

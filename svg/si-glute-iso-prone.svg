@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Изометрия ягодиц лёжа на животе">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d95926"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M276 258 L350 262 L414 264" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M414 264 L422 280" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M178 244 L228 244 L268 248" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="278" cy="244" rx="30" ry="22" fill="#d95926" opacity="0.20"/>
+  <g data-torso="1"><path d="M160 250 L272 250" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M159 233 L271 233" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/><path d="M161 267 L273 267" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M142 250 L158 250" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="118" cy="250" r="24" fill="#1F2A37"/><g transform="rotate(90 118 250)"><path d="M137 245 L150 251 L136 257 Z" fill="#1F2A37"/><circle cx="126" cy="242" r="4.6" fill="#EFF2F5"/><path d="M123 256 Q130 265 137 256" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M272 250 L350 254 L416 256" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M416 256 L424 272" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M176 238 L226 238 L266 242" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M242 178 L266 214" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M320 178 L292 214" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

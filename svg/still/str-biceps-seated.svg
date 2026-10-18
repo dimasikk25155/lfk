@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Сгибания на бицепс сидя с опорой">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#4a3aa7"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="238" y="214" width="132" height="14" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="352" y="86" width="16" height="130" rx="7" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M252 228 L252 292" fill="none" stroke="#A9B6C2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M358 228 L358 292" fill="none" stroke="#A9B6C2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M336 216 L242 224 L232 286" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 288 L198 288" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="306" cy="184" rx="16" ry="26" fill="#4a3aa7" opacity="0.18"/>
+  <path d="M330 208 L236 216 L226 280" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M226 282 L192 282" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M334 132 L336 206" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M317 132 L319 206" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M351 132 L353 206" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M334 116 L334 130" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="334" cy="92" r="24" fill="#1F2A37"/><g transform="rotate(180 334 92)"><path d="M353 87 L366 93 L352 99 Z" fill="#1F2A37"/><circle cx="342" cy="84" r="4.6" fill="#EFF2F5"/><path d="M339 98 Q346 107 353 98" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M322 152 L308 200" fill="none" stroke="#4a3aa7" stroke-width="13" stroke-linecap="round"/>
+  <path d="M308 200 L286 164" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round"/>
+  <g fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"><circle cx="274" cy="144" r="12"/><circle cx="272" cy="172" r="12"/><rect x="269" y="152" width="9" height="12" rx="3"/></g>
+  <path d="M254 214 A 66 66 0 0 1 250 168" fill="none" stroke="#4a3aa7" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

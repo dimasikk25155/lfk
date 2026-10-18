@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Мяч у стены под лопатку">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199e70"/></marker></defs>
+  <ellipse cx="380" cy="142" rx="20" ry="30" transform="rotate(14 380 142)" fill="#199e70" opacity="0.20"/>
+  <path d="M246 112 L314 124" fill="none" stroke="#199e70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M224 322 L328 322" fill="none" stroke="#199e70" stroke-width="6" stroke-linecap="round" marker-start="url(#ah)" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Тест: откуда боль — крестец или поясница">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#4a3aa7"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <path d="M266 132 L296 182 L282 224" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M282 224 L272 234" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M252 238 L258 290" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round"/>
+  <path d="M244 292 L276 292" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M242 114 L240 236" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M242 114 L240 236" fill="none" stroke="#3E6FA8" stroke-width="12" stroke-linecap="round"/></g>
+  <path d="M242 100 L242 114" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="242" cy="76" r="24" fill="#1F2A37"/></g>
+  <path d="M228 238 L222 290" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M206 292 L238 292" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="224" cy="222" rx="20" ry="16" fill="#4a3aa7" opacity="0.20"/>
+  <circle cx="224" cy="222" r="5" fill="#4a3aa7"/>
+  <path d="M218 132 L184 178 L210 214" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 214 L220 220" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M118 262 L166 236" fill="none" stroke="#4a3aa7" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

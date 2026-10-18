@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ладони на затылок — изометрия разгибателей шеи">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#2a78d6"/></marker></defs>
+  <ellipse cx="267" cy="143" rx="31" ry="34" transform="rotate(18 267 143)" fill="#2a78d6" opacity="0.20"/>
+  <path d="M212 108 L166 108" fill="none" stroke="#2a78d6" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M108 108 L154 108" fill="none" stroke="#2a78d6" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

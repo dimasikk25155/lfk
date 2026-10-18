@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Сжатие подушки между коленями лёжа">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d95926"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="98" y="18" width="284" height="296" rx="30" fill="#DDE3E9"/>
+  <path d="M216 96 L184 134 L170 170" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 170 L166 184" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M264 96 L296 134 L310 170" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 170 L314 184" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M240 86 L240 126" fill="none" stroke="#94A3B4" stroke-width="40" stroke-linecap="round"/><path d="M240 88 L240 124" fill="none" stroke="#C0524A" stroke-width="10" stroke-linecap="round"/></g>
+  <path d="M240 72 L240 84" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="240" cy="54" r="20" fill="#94A3B4"/></g>
+  <ellipse cx="240" cy="146" rx="58" ry="32" fill="#d95926" opacity="0.20"/>
+  <path d="M216 132 L264 132" fill="none" stroke="#94A3B4" stroke-width="44" stroke-linecap="round"/>
+  <path d="M218 136 L198 172" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M262 136 L282 172" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <rect x="210" y="150" width="60" height="42" rx="12" fill="#EFF2F5" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M198 172 L202 244" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M282 172 L278 244" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <rect x="178" y="246" width="48" height="24" rx="10" fill="#1F2A37"/>
+  <rect x="254" y="246" width="48" height="24" rx="10" fill="#1F2A37"/>
+  <path d="M132 172 L176 172" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M348 172 L304 172" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

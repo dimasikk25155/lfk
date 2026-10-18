@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<meta name="theme-color" content="#08090b">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="referrer" content="no-referrer">
+<title>Травка — здоровье и ЛФК</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">🌿</span>
+      <span class="brand-txt">
+        <b>Травка</b>
+        <i>здоровье и ЛФК · Дмитрий, 33</i>
+      </span>
+    </div>
+    <div class="topbar-right">
+      <div class="streak-pill" id="streakPill" title="Дней подряд с занятием">
+        <span class="flame" aria-hidden="true">🔥</span>
+        <span class="streak-n" id="streakN">0</span>
+        <span class="streak-l">дней подряд</span>
+      </div>
+      <button class="icon-btn" id="themeBtn" type="button" aria-label="Сменить тему">
+        <span class="ic-sun" aria-hidden="true">☀</span><span class="ic-moon" aria-hidden="true">☾</span>
+      </button>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs" role="tablist">
+    <button class="tab is-on" data-view="dash" role="tab">Дашборд</button>
+    <button class="tab" data-view="today" role="tab">Сегодня</button>
+    <button class="tab" data-view="cat" role="tab">Упражнения</button>
+    <button class="tab" data-view="plan" role="tab">План</button>
+    <button class="tab" data-view="lib" role="tab">Библиотека</button>
+    <button class="tab" data-view="log" role="tab">Журнал</button>
+  </nav>
+</header>
+
+<main id="view" class="view" tabindex="-1"></main>
+
+<footer class="foot">
+  <span>Личный файл. Собран по семи МРТ февраль–июнь 2026. Источники: <code>DASHBOARD.md</code>, <code>лечение/лфк.md</code>, <code>болячки/</code>.</span>
+  <span class="foot-actions">
+    <button class="link-btn" id="exportBtn" type="button">Экспорт прогресса</button>
+    <button class="link-btn" id="importBtn" type="button">Импорт</button>
+    <button class="link-btn danger" id="resetBtn" type="button">Сбросить</button>
+  </span>
+</footer>
+
+<div class="sheet-wrap" id="sheetWrap" hidden>
+  <div class="sheet-bg" data-close="1"></div>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <button class="sheet-x" id="sheetX" type="button" aria-label="Закрыть">✕</button>
+    <div class="sheet-body" id="sheetBody"></div>
+  </div>
+</div>
+
+<div class="player-wrap" id="playerWrap" hidden>
+  <div class="player" role="dialog" aria-modal="true" aria-label="Тренировка"></div>
+</div>
+
+<div class="tip" id="tip" hidden></div>
+
+<script src="js/bodymap.js"></script>
+<script src="js/data-zones.js"></script>
+<script src="js/data-neck.js"></script>
+<script src="js/data-thoracic.js"></script>
+<script src="js/data-lumbar.js"></script>
+<script src="js/data-knee.js"></script>
+<script src="js/data-foot.js"></script>
+<script src="js/data-pool-tests.js"></script>
+<script src="js/data-strength.js"></script>
+<script src="js/data-library.js"></script>
+<script src="js/program.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

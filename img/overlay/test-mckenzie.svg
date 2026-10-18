@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Тест направления: централизация боли">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#52514e"/></marker></defs>
+  <ellipse cx="396" cy="258" rx="24" ry="18" fill="#52514e" opacity="0.14"/>
+  <path d="M382 214 A 90 90 0 0 0 306 200" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

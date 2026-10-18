@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Подъёмы носков на себя">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#c98500"/></marker></defs>
+  <ellipse cx="228" cy="244" rx="15" ry="28" fill="#c98500" opacity="0.18"/>
+  <path d="M306 292 L306 250" fill="none" stroke="#c98500" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

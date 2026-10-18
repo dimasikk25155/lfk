@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Работа ног с доской">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#008300"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="0" y="188" width="480" height="172" fill="#CFE3EE"/>
+  <path d="M0 188 H480" fill="none" stroke="#8FBBD0" stroke-width="4"/>
+  <path d="M300 222 L362 240 L422 252" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M422 252 L440 240" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <rect x="96" y="160" width="86" height="46" rx="10" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <ellipse cx="352" cy="206" rx="44" ry="22" fill="#008300" opacity="0.18"/>
+  <path d="M296 210 L358 194 L418 182" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M418 182 L436 170" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M198 204 L292 210" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M197 221 L291 227" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M199 187 L293 193" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M186 200 L198 204" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="166" cy="194" r="24" fill="#1F2A37"/><g transform="rotate(180 166 194)"><path d="M185 189 L198 195 L184 201 Z" fill="#1F2A37"/><circle cx="174" cy="186" r="4.6" fill="#EFF2F5"/><path d="M171 200 Q178 209 185 200" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M204 190 L172 180 L146 176" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M420 300 A 40 40 0 0 1 420 224" fill="none" stroke="#008300" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

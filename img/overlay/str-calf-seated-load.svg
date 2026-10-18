@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Икры сидя с блином на коленях">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#4a3aa7"/></marker></defs>
+  <ellipse cx="238" cy="256" rx="16" ry="28" fill="#4a3aa7" opacity="0.18"/>
+  <path d="M172 288 L172 240" fill="none" stroke="#4a3aa7" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 620" role="img" aria-label="Карта проблемных зон">
+  <g fill="#D7DEE6">
+    <path d="M205 134 C221 137 232 146 235 164 C239 190 241 218 243 248 C245 274 247 300 249 322 C251 338 252 350 251 362 C250 374 244 380 237 378 C230 376 227 366 226 354 C222 330 216 290 211 250 C208 220 205 190 204 166 C203 152 203 142 205 134 Z"/>
+    <path d="M115 134 C99 137 88 146 85 164 C81 190 79 218 77 248 C75 274 73 300 71 322 C69 338 68 350 69 362 C70 374 76 380 83 378 C90 376 93 366 94 354 C98 330 104 290 109 250 C112 220 115 190 116 166 C117 152 117 142 115 134 Z"/>
+    <path d="M172 84 C173 96 172 104 172 110 C181 116 191 118 200 123 C213 129 223 139 224 157 C225 174 208 181 204 199 C199 216 194 226 194 241 C194 260 202 270 206 286 C208 294 208 300 206 307 C210 334 208 360 204 383 C202 393 200 400 200 411 C200 428 202 442 201 455 C200 484 192 514 188 537 C187 541 186 543 186 547 C189 559 195 569 199 577 C201 583 197 587 190 587 L169 587 C165 587 164 583 164 577 C164 565 165 555 166 547 C167 531 170 501 171 471 C172 451 170 429 170 411 C170 383 167 351 162 317 C161 311 160 307 160 303 C160 307 159 311 158 317 C153 351 150 383 150 411 C150 429 148 451 149 471 C150 501 153 531 154 547 C155 555 156 565 156 577 C156 583 155 587 151 587 L130 587 C123 587 119 583 121 577 C125 569 131 559 134 547 C134 543 133 541 132 537 C128 514 120 484 119 455 C118 442 120 428 120 411 C120 400 118 393 116 383 C112 360 110 334 114 307 C112 300 112 294 114 286 C118 270 126 260 126 241 C126 226 121 216 116 199 C112 181 95 174 96 157 C97 139 107 129 120 123 C129 118 139 116 148 110 C148 104 147 96 148 84 Z"/>
+    <ellipse cx="160" cy="60" rx="26" ry="33"/>
+  </g>
+
+  <g class="zone" data-zone="head"><circle cx="160" cy="46" r="15" fill="#4a3aa7" opacity="0.9"/><circle cx="160" cy="46" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="eyes"><circle cx="160" cy="80" r="15" fill="#3987e5" opacity="0.9"/><circle cx="160" cy="80" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="neck"><circle cx="160" cy="114" r="15" fill="#2a78d6" opacity="0.9"/><circle cx="160" cy="114" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="thoracic"><circle cx="160" cy="160" r="15" fill="#199e70" opacity="0.9"/><circle cx="160" cy="160" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="gut"><circle cx="160" cy="202" r="15" fill="#008300" opacity="0.9"/><circle cx="160" cy="202" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="lumbar"><circle cx="160" cy="244" r="15" fill="#d95926" opacity="0.9"/><circle cx="160" cy="244" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="elbow"><circle cx="226" cy="252" r="15" fill="#94A3B4" opacity="0.9"/><circle cx="226" cy="252" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="hip"><circle cx="134" cy="290" r="15" fill="#d55181" opacity="0.9"/><circle cx="134" cy="290" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="knee-l"><circle cx="185" cy="403" r="15" fill="#e34948" opacity="0.9"/><circle cx="185" cy="403" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="knee-r"><circle cx="135" cy="403" r="15" fill="#e66767" opacity="0.9"/><circle cx="135" cy="403" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+  <g class="zone" data-zone="foot"><circle cx="160" cy="578" r="15" fill="#c98500" opacity="0.9"/><circle cx="160" cy="578" r="15" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+</svg>

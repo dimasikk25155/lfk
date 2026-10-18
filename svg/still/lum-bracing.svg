@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Брейсинг: включение поперечной мышцы живота">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d95926"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M276 256 L336 208 L372 262" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M372 262 L406 262" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M172 250 L210 264 L248 252" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="242" cy="240" rx="40" ry="20" fill="#d95926" opacity="0.20"/>
+  <path d="M270 248 L324 198 L360 254" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 254 L394 254" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M154 242 L268 248" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M155 225 L269 231" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M153 259 L267 265" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M138 240 L154 242" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="114" cy="238" r="24" fill="#1F2A37"/><g transform="rotate(-90 114 238)"><path d="M133 233 L146 239 L132 245 Z" fill="#1F2A37"/><circle cx="122" cy="230" r="4.6" fill="#EFF2F5"/><path d="M119 244 Q126 253 133 244" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M170 236 L204 258 L240 238" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 186 L222 214" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M310 178 L266 210" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

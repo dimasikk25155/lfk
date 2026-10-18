@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Тест колено к стене">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#52514e"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="404" y="44" width="22" height="248" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <path d="M228 200 L188 246 L182 286" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 288 L146 288" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="356" cy="228" rx="22" ry="18" fill="#52514e" opacity="0.18"/>
+  <path d="M240 202 L354 228" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M354 228 L330 284" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M326 288 L370 288" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M238 126 L238 198" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M255 126 L255 198" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M221 126 L221 198" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M240 110 L238 124" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="242" cy="86" r="24" fill="#1F2A37"/><path d="M261 81 L274 87 L260 93 Z" fill="#1F2A37"/><circle cx="250" cy="78" r="4.6" fill="#EFF2F5"/><path d="M247 92 Q254 101 261 92" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M250 142 L306 152 L358 160" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 232 L370 228" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M374 316 L400 316" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M400 316 L374 316" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M374 300 L374 330" fill="none" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M402 300 L402 330" fill="none" stroke="#A9B6C2" stroke-width="3"/>
+</svg>

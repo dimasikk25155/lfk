@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Тест направления: централизация боли">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#52514e"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <ellipse cx="396" cy="258" rx="24" ry="18" fill="#52514e" opacity="0.14"/>
+  <path d="M304 260 L370 262 L432 264" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M432 264 L442 248" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M206 186 L196 236 L192 264" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="280" cy="232" rx="30" ry="17" fill="#52514e" opacity="0.30"/>
+  <path d="M300 254 L366 256 L428 258" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M428 258 L438 242" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M198 176 L300 250" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M188 190 L290 264" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M208 162 L310 236" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M184 158 L196 174" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="166" cy="140" r="24" fill="#1F2A37"/><g transform="rotate(180 166 140)"><path d="M185 135 L198 141 L184 147 Z" fill="#1F2A37"/><circle cx="174" cy="132" r="4.6" fill="#EFF2F5"/><path d="M171 146 Q178 155 185 146" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M200 180 L190 224 L186 264" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M382 214 A 90 90 0 0 0 306 200" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

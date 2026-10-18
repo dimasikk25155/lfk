@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Нитка в иголку на четвереньках">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="284" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <rect x="296" y="256" width="96" height="28" rx="14" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M322 202 L336 254" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M336 256 L378 262" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round"/>
+  <path d="M208 200 L200 244 L198 278" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M198 280 L180 282" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="256" cy="184" rx="48" ry="26" fill="#199E70" opacity="0.20"/>
+  <g data-torso="1"><path d="M208 198 Q264 174 322 202" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M202 178 Q264 152 328 182" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/><path d="M210 220 Q264 196 320 224" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M322 202 L340 256" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M340 258 L384 264" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round"/>
+  <path d="M208 198 L190 222" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="172" cy="240" r="24" fill="#1F2A37"/><g transform="rotate(200 172 240)"><path d="M191 235 L204 241 L190 247 Z" fill="#1F2A37"/><circle cx="180" cy="232" r="4.6" fill="#EFF2F5"/><path d="M177 246 Q184 255 191 246" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M216 196 L220 144 L210 98" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M210 98 L206 82" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"></path>
+  <path d="M136 250 C 106 194, 128 118, 178 92" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <path d="M306 298 L382 298" fill="none" stroke="#A9B6C2" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 9"/>
+</svg>

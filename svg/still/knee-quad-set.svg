@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Изометрия квадрицепса">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#e34948"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M246 240 L292 212 L310 250" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 250 L334 244" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M168 236 L206 218 L242 228" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M242 228 L256 234" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M156 246 L252 250" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M157 229 L253 233" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M155 263 L251 267" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M140 244 L156 246" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="116" cy="242" r="24" fill="#1F2A37"/><g transform="rotate(-90 116 242)"><path d="M135 237 L148 243 L134 249 Z" fill="#1F2A37"/><circle cx="124" cy="234" r="4.6" fill="#EFF2F5"/><path d="M121 248 Q128 257 135 248" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <ellipse cx="283" cy="257" rx="42" ry="21" transform="rotate(6 283 257)" fill="#e34948" opacity="0.18"/>
+  <path d="M252 254 L314 260" fill="none" stroke="#e34948" stroke-width="17" stroke-linecap="round"/>
+  <path d="M314 260 L376 264" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round"/>
+  <path d="M378 264 L384 238" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M174 234 L212 216 L250 226" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 226 L264 232" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M316 176 L316 230" fill="none" stroke="#e34948" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

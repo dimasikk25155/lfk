@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ротация в выпаде у стены">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="52" y="24" width="60" height="268" rx="8" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <path d="M258 200 L318 240 L318 288" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M318 290 L342 292" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="250" cy="150" rx="40" ry="28" fill="#199E70" opacity="0.20"/>
+  <g data-torso="1"><path d="M246 124 L252 198" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M230 126 L236 198" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M262 124 L268 196" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M246 108 L246 122" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="244" cy="84" r="24" fill="#1F2A37"/><g transform="rotate(180 244 84)"><path d="M263 79 L276 85 L262 91 Z" fill="#1F2A37"/><circle cx="252" cy="76" r="4.6" fill="#EFF2F5"/><path d="M249 90 Q256 99 263 90" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M248 200 L196 236 L196 288" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 290 L172 292" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M228 138 L172 150 L118 148" fill="none" stroke="#1F2A37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M264 138 L292 162 L252 176" fill="none" stroke="#94A3B4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M334 172 C 374 150, 378 104, 344 80" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M196 236 A 46 46 0 0 1 232 208" fill="none" stroke="#199E70" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  <path d="M164 264 L232 264" fill="none" stroke="#A9B6C2" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 9"/>
+</svg>

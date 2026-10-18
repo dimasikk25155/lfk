@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Пуловер лёжа на полу">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#4a3aa7"/></marker></defs>
+  <ellipse cx="206" cy="230" rx="40" ry="20" fill="#4a3aa7" opacity="0.20"/>
+  <path d="M140 128 A 76 76 0 0 1 176 108" fill="none" stroke="#4a3aa7" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

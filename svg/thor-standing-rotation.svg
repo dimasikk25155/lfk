@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ротация стоя">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <ellipse cx="240" cy="146" rx="42" ry="30" fill="#199E70" opacity="0.20"/>
+  <path d="M224 192 L216 242 L210 284" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 286 L192 290" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M256 192 L264 242 L270 284" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 286 L288 290" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 240 192;-11 240 192;0 240 192;11 240 192;0 240 192" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" dur="4.4s" repeatCount="indefinite"/>
+    <g data-torso="1"><path d="M240 118 L240 192" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M240 118 L240 192" fill="none" stroke="#C0524A" stroke-width="12" stroke-linecap="round"/></g>
+    <path d="M240 102 L240 116" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+    <g data-face="1"><circle cx="240" cy="76" r="24" fill="#1F2A37"/><circle cx="232" cy="70" r="4.6" fill="#EFF2F5"/><circle cx="248" cy="70" r="4.6" fill="#EFF2F5"/><path d="M232 81 Q240 90 248 81" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+    <path d="M218 128 L196 154 L232 168" fill="none" stroke="#1F2A37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M262 128 L284 154 L248 168" fill="none" stroke="#1F2A37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M332 178 C 372 156, 376 108, 342 84" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M148 178 C 108 156, 104 108, 138 84" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M186 262 L294 262" fill="none" stroke="#A9B6C2" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 9"/>
+</svg>

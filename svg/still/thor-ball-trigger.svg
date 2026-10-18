@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Мяч у стены под лопатку">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199e70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="404" y="44" width="22" height="248" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <path d="M352 134 L338 180 L324 222" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M324 222 L318 242" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M346 190 L292 220 L288 282" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M262 287 L296 287" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M360 118 L342 192" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M343 114 L325 188" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M377 122 L359 196" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M357 116 L353 98" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="352" cy="80" r="24" fill="#1F2A37"/><g transform="rotate(180 352 80)"><path d="M371 75 L384 81 L370 87 Z" fill="#1F2A37"/><circle cx="360" cy="72" r="4.6" fill="#EFF2F5"/><path d="M357 86 Q364 95 371 86" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M352 132 L304 146 L344 168" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M342 192 L287 220 L270 280" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M244 287 L278 287" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="380" cy="142" rx="20" ry="30" transform="rotate(14 380 142)" fill="#199e70" opacity="0.20"/>
+  <circle cx="390" cy="142" r="13" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M246 112 L314 124" fill="none" stroke="#199e70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M224 322 L328 322" fill="none" stroke="#199e70" stroke-width="6" stroke-linecap="round" marker-start="url(#ah)" marker-end="url(#ah)"/>
+</svg>

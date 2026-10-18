@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Боковая планка с колен">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d95926"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M250 225 L303 249 L323 205" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M323 205 L342 211" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M194 197 L236 178 L266 212" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M266 212 L278 222" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="220" cy="227" rx="46" ry="32" transform="rotate(24 220 227)" fill="#d95926" opacity="0.20"/>
+  <g data-torso="1"><path d="M188 204 L259 236" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M181 219 L252 251" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M195 189 L266 221" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M174 198 L188 204" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="152" cy="188" r="24" fill="#1F2A37"/><g transform="rotate(180 152 188)"><path d="M171 183 L184 189 L170 195 Z" fill="#1F2A37"/><circle cx="160" cy="180" r="4.6" fill="#EFF2F5"/><path d="M157 194 Q164 203 171 194" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M259 236 L312 260 L332 216" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M332 216 L351 222" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M190 204 L190 261 L144 263" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M144 263 L126 265" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M290 208 L300 146" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

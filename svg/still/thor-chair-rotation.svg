@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ротация сидя верхом на стуле">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="196" y="228" width="132" height="16" rx="8" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="200" y="244" width="13" height="48" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="312" y="244" width="13" height="48" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="198" y="116" width="17" height="118" rx="8" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M256 226 L296 258 L296 290" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M296 292 L318 294" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="252" cy="176" rx="36" ry="28" fill="#199E70" opacity="0.20"/>
+  <g data-torso="1"><path d="M246 142 L254 224" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M230 144 L238 224" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M262 142 L270 222" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M245 126 L245 140" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="243" cy="102" r="24" fill="#1F2A37"/><g transform="rotate(180 243 102)"><path d="M262 97 L275 103 L261 109 Z" fill="#1F2A37"/><circle cx="251" cy="94" r="4.6" fill="#EFF2F5"/><path d="M248 108 Q255 117 262 108" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M252 226 L222 258 L222 290" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M222 292 L200 294" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M226 156 L268 176" fill="none" stroke="#94A3B4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 156 L228 176" fill="none" stroke="#1F2A37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M338 202 C 384 180, 388 126, 350 100" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M150 202 C 104 180, 100 126, 138 100" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M196 262 L160 262" fill="none" stroke="#A9B6C2" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 9"/>
+  <path d="M328 262 L364 262" fill="none" stroke="#A9B6C2" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 9"/>
+</svg>

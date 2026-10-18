@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Растяжка в выпаде с подкрученным тазом">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d55181"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="244" y="278" width="80" height="14" rx="7" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M250 138 L218 176 L192 214" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M192 214 L182 222" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M254 210 L276 268 L337 283" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M343 285 L364 289" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="258" cy="232" rx="26" ry="34" transform="rotate(20.8 258 232)" fill="#d55181" opacity="0.20"/>
+  <g data-torso="1"><path d="M254 210 L254 134" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M237 210 L237 134" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M271 210 L271 134" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M254 134 L252 120" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="250" cy="100" r="24" fill="#1F2A37"/><g transform="rotate(180 250 100)"><path d="M269 95 L282 101 L268 107 Z" fill="#1F2A37"/><circle cx="258" cy="92" r="4.6" fill="#EFF2F5"/><path d="M255 106 Q262 115 269 106" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M254 134 L222 172 L196 210" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 210 L186 218" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M254 210 L192 217 L182 278" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 285 L146 289" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M252 244 L206 250" fill="none" stroke="#d55181" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

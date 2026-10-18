@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Растяжка икроножной мышцы у стены">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#C98500"/></marker></defs>
+  <ellipse cx="168" cy="258" rx="17" ry="34" transform="rotate(22 168 258)" fill="#C98500" opacity="0.18"/>
+  <path d="M186 180 L238 172" fill="none" stroke="#C98500" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

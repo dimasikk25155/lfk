@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Сжимание подушки между коленями лёжа, вид со стороны стоп">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#e34948"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="70" y="26" width="340" height="300" rx="16" fill="#DDE3E9"/>
+  <circle cx="240" cy="70" r="26" fill="#94A3B4"/>
+  <path d="M240 104 L240 178" fill="none" stroke="#94A3B4" stroke-width="56" stroke-linecap="round"/>
+  <path d="M240 178 L192 216" fill="none" stroke="#94A3B4" stroke-width="20" stroke-linecap="round"/>
+  <path d="M240 178 L288 216" fill="none" stroke="#94A3B4" stroke-width="20" stroke-linecap="round"/>
+  <ellipse cx="204" cy="222" rx="18" ry="42" transform="rotate(14 204 222)" fill="#e34948" opacity="0.20"/>
+  <ellipse cx="276" cy="222" rx="18" ry="42" transform="rotate(-14 276 222)" fill="#e34948" opacity="0.20"/>
+  <path d="M194 220 L160 300" fill="none" stroke="#1F2A37" stroke-width="20" stroke-linecap="round"><animate attributeName="d" values="M194 220 L160 300;M200 220 L166 300;M200 220 L166 300;M194 220 L160 300" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M286 220 L320 300" fill="none" stroke="#1F2A37" stroke-width="20" stroke-linecap="round"><animate attributeName="d" values="M286 220 L320 300;M280 220 L314 300;M280 220 L314 300;M286 220 L320 300" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <rect x="214" y="192" width="52" height="58" rx="16" fill="#C3CDD7" stroke="#7F8D9B" stroke-width="4"><animate attributeName="width" values="52;40;40;52" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/><animate attributeName="x" values="214;220;220;214" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></rect>
+  <ellipse cx="158" cy="308" rx="27" ry="12" fill="#1F2A37"/>
+  <ellipse cx="322" cy="308" rx="27" ry="12" fill="#1F2A37"/>
+  <path d="M118 222 L172 222" fill="none" stroke="#e34948" stroke-width="7" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M362 222 L308 222" fill="none" stroke="#e34948" stroke-width="7" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

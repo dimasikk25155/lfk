@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ходьба в воде">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#008300"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="0" y="150" width="480" height="210" fill="#CFE3EE"/>
+  <path d="M0 150 H480" fill="none" stroke="#8FBBD0" stroke-width="4"/>
+  <rect x="24" y="316" width="432" height="14" rx="7" fill="#B7CEDB"/>
+  <path d="M240 200 L188 258 L182 312" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 314 L146 314" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M234 132 L188 166 L152 188" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="264" cy="240" rx="34" ry="26" fill="#008300" opacity="0.18"/>
+  <path d="M246 198 L300 250 L306 312" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M306 314 L340 314" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M240 120 L244 196" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M257 119 L261 195" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M223 121 L227 197" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M238 104 L240 118" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="238" cy="80" r="24" fill="#1F2A37"/><path d="M257 75 L270 81 L256 87 Z" fill="#1F2A37"/><circle cx="246" cy="72" r="4.6" fill="#EFF2F5"/><path d="M243 86 Q250 95 257 86" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M248 132 L296 168 L332 190" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M366 274 L430 274" fill="none" stroke="#008300" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M114 274 L50 274" fill="none" stroke="#008300" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ладони на затылок — изометрия разгибателей шеи">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#2a78d6"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="214" y="128" width="18" height="118" rx="9" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="224" y="196" width="102" height="10" rx="5" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="217" y="253" width="11" height="39" rx="5" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="298" y="253" width="11" height="39" rx="5" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="214" y="240" width="120" height="13" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M262 232 L324 230 L340 288" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M336 287 L370 287" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M250 158 L296 140 L250 144" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 144 L228 128" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M268 226 L330 222 L324 282" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 287 L354 287" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="267" cy="143" rx="31" ry="34" transform="rotate(18 267 143)" fill="#2a78d6" opacity="0.20"/>
+  <g data-torso="1"><path d="M254 152 L266 227" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M271 149 L283 224" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M237 155 L249 230" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M262 132 L256 150" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="268" cy="110" r="24" fill="#1F2A37"/><path d="M287 105 L300 111 L286 117 Z" fill="#1F2A37"/><circle cx="276" cy="102" r="4.6" fill="#EFF2F5"/><path d="M273 116 Q280 125 287 116" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M258 154 L300 130 L254 134" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M254 134 L232 118" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M212 108 L166 108" fill="none" stroke="#2a78d6" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M108 108 L154 108" fill="none" stroke="#2a78d6" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

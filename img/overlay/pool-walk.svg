@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Ходьба в воде">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#008300"/></marker></defs>
+  <ellipse cx="264" cy="240" rx="34" ry="26" fill="#008300" opacity="0.18"/>
+  <path d="M366 274 L430 274" fill="none" stroke="#008300" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M114 274 L50 274" fill="none" stroke="#008300" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

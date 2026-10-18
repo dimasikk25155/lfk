@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Рука вверх с заглядыванием">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <path d="M220 126 L206 172 L200 214" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 216 L195 228" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="240" cy="142" rx="40" ry="28" fill="#199E70" opacity="0.20"/>
+  <g data-torso="1"><path d="M240 118 L240 190" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M240 118 L240 190" fill="none" stroke="#C0524A" stroke-width="12" stroke-linecap="round"/></g>
+  <path d="M224 192 L216 242 L210 284" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 286 L192 290" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M256 192 L264 242 L270 284" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 286 L288 290" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M240 102 L240 116" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><g transform="rotate(14 240 76)"><circle cx="240" cy="76" r="24" fill="#1F2A37"/><circle cx="232" cy="70" r="4.6" fill="#EFF2F5"/><circle cx="248" cy="70" r="4.6" fill="#EFF2F5"/><path d="M232 81 Q240 90 248 81" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M260 124 L274 80 L282 38" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M282 38 L286 24" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"></path>
+  <path d="M320 172 C 352 132, 348 82, 312 50" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Полуприсед у стены 0–45°">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#e34948"/></marker></defs>
+  <ellipse cx="350" cy="227" rx="17" ry="32" transform="rotate(45 350 227)" fill="#e34948" opacity="0.18"/>
+  <path d="M434 140 L434 230" fill="none" stroke="#e34948" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Дыхание в нижние рёбра">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <ellipse cx="240" cy="168" rx="46" ry="30" fill="#199E70" opacity="0.20"/>
+  <path d="M202 188 L148 188" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M278 188 L332 188" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

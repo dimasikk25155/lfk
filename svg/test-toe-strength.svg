@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Тест силы разгибателя большого пальца">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#52514e"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="290" y="212" width="118" height="13" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M304 226 L304 292" fill="none" stroke="#A9B6C2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M394 226 L394 292" fill="none" stroke="#A9B6C2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M336 216 L258 228 L248 286" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M248 288 L212 288" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="178" cy="256" rx="24" ry="14" fill="#52514e" opacity="0.18"/>
+  <path d="M330 206 L246 218 L234 268" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 272 L192 272" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M192 268 L166 254" fill="none" stroke="#52514e" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M334 128 L336 204" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M317 128 L319 204" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M351 128 L353 204" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M334 112 L334 126" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="334" cy="88" r="24" fill="#1F2A37"/><g transform="rotate(180 334 88)"><path d="M353 83 L366 89 L352 95 Z" fill="#1F2A37"/><circle cx="342" cy="80" r="4.6" fill="#EFF2F5"/><path d="M339 94 Q346 103 353 94" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M322 148 L246 180 L176 218" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M164 208 L170 236" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M140 288 L156 264" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

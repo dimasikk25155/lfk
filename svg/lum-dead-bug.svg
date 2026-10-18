@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Мёртвый жук">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#D95926"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M274 256 L346 262 L416 266" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="d" values="M274 256 L316 198 L370 206;M274 256 L346 262 L416 266;M274 256 L346 262 L416 266;M274 256 L316 198 L370 206" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M416 266 L426 246" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"><animate attributeName="d" values="M370 206 L382 188;M416 266 L426 246;M416 266 L426 246;M370 206 L382 188" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M170 242 L128 200 L96 174" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="d" values="M170 242 L172 192 L170 154;M170 242 L128 200 L96 174;M170 242 L128 200 L96 174;M170 242 L172 192 L170 154" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <ellipse cx="230" cy="248" rx="42" ry="22" fill="#D95926" opacity="0.20"/>
+  <g data-torso="1"><path d="M152 246 L268 250" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M153 229 L269 233" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M151 263 L267 267" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M136 244 L152 246" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="112" cy="242" r="24" fill="#1F2A37"/><g transform="rotate(-90 112 242)"><path d="M131 237 L144 243 L130 249 Z" fill="#1F2A37"/><circle cx="120" cy="234" r="4.6" fill="#EFF2F5"/><path d="M117 248 Q124 257 131 248" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M272 248 L312 190 L366 198" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M366 198 L378 180" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M170 234 L168 184 L166 146" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 158 L64 138" fill="none" stroke="#D95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M410 282 L446 288" fill="none" stroke="#D95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

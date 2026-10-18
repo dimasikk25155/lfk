@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Подъём прямой ноги лёжа">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#e34948"/></marker></defs>
+  <ellipse cx="278" cy="232" rx="42" ry="21" transform="rotate(-35 278 232)" fill="#e34948" opacity="0.18"/>
+  <path d="M398 244 A 146 146 0 0 0 372 166" fill="none" stroke="#e34948" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

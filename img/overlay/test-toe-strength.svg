@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Тест силы разгибателя большого пальца">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#52514e"/></marker></defs>
+  <ellipse cx="178" cy="256" rx="24" ry="14" fill="#52514e" opacity="0.18"/>
+  <path d="M164 208 L170 236" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M140 288 L156 264" fill="none" stroke="#52514e" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

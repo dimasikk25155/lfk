@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Втягивание подбородка">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#2a78d6"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="154" y="130" width="14" height="108" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="160" y="236" width="100" height="12" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="164" y="248" width="10" height="44" rx="4" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="244" y="248" width="10" height="44" rx="4" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M196 226 L262 232 L265 287" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M258 287 L290 287" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M204 150 L210 198 L254 212" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M254 212 L268 216" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M202 224 L210 148" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M219 226 L227 150" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M185 222 L193 146" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <ellipse cx="228" cy="152" rx="14" ry="16" fill="#2a78d6" opacity="0.20"/>
+  <path d="M210 146 L212 126" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="214" cy="102" r="24" fill="#1F2A37"/><path d="M233 97 L246 103 L232 109 Z" fill="#1F2A37"/><circle cx="222" cy="94" r="4.6" fill="#EFF2F5"/><path d="M219 108 Q226 117 233 108" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M202 224 L270 230 L274 287" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 287 L304 287" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M210 148 L218 196 L262 214" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M262 214 L276 218" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M266 64 L206 64" fill="none" stroke="#2a78d6" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Прокат на валике, обняв себя за плечи">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#199E70"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <circle cx="196" cy="242" r="26" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M238 246 L288 212 L312 260" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M308 262 L334 262" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <ellipse cx="200" cy="200" rx="40" ry="24" fill="#199E70" opacity="0.20"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-16 6;16 -4;-16 6" keyTimes="0;0.5;1" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1" dur="3.6s" repeatCount="indefinite"/>
+    <path d="M186 234 L206 168 L242 200" fill="none" stroke="#94A3B4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <g data-torso="1"><path d="M166 238 Q204 158 244 244" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M151 231 L157 219 L163 209 L170 200 L177 193 L185 187 L195 183 L206 183 L216 185 L225 190 L233 196 L240 204 L247 214 L253 225 L259 237" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M181 245 L186 236 L191 228 L195 222 L199 219 L201 217 L203 216 L204 217 L206 218 L209 221 L214 225 L218 232 L223 241 L229 251" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <path d="M166 238 L146 240" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+    <g data-face="1"><circle cx="124" cy="238" r="24" fill="#1F2A37"/><g transform="rotate(-90 124 238)"><path d="M143 233 L156 239 L142 245 Z" fill="#1F2A37"/><circle cx="132" cy="230" r="4.6" fill="#EFF2F5"/><path d="M129 244 Q136 253 143 244" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+    <path d="M180 228 L228 166 L196 196" fill="none" stroke="#1F2A37" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M244 244 L296 206 L322 258" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M318 262 L346 262" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <path d="M126 116 L288 116" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <path d="M340 176 A 44 44 0 0 1 424 176" fill="none" stroke="#199E70" stroke-width="6" stroke-linecap="round" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <circle cx="382" cy="176" r="13" fill="none" stroke="#A9B6C2" stroke-width="4"/>
+</svg>

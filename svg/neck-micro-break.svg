@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Микропауза по таймеру 45 минут">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#2a78d6"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="30" y="292" width="420" height="14" rx="7" fill="#DDE3E9"/>
+  <rect x="72" y="150" width="14" height="100" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="78" y="246" width="76" height="12" rx="6" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="82" y="258" width="10" height="34" rx="4" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <rect x="140" y="258" width="10" height="34" rx="4" fill="#E1E7ED" stroke="#A9B6C2" stroke-width="3"/>
+  <path d="M106 226 L158 230 L161 287" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M158 287 L186 287" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M112 152 L112 200 L154 216" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M154 216 L166 220" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M112 224 L118 150" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M129 225 L135 151" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M95 223 L101 149" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M118 148 L120 130" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="122" cy="106" r="24" fill="#1F2A37"/><path d="M141 101 L154 107 L140 113 Z" fill="#1F2A37"/><circle cx="130" cy="98" r="4.6" fill="#EFF2F5"/><path d="M127 112 Q134 121 141 112" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M112 224 L166 228 L169 287" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M166 287 L194 287" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M118 150 L124 198 L164 218" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M164 218 L176 222" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M344 192 L338 244 L336 287" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M332 287 L360 287" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M340 138 L332 186 L330 230" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 230 L328 242" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <g data-torso="1"><path d="M352 190 L354 114" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M369 190 L371 114" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M335 190 L337 114" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <ellipse cx="366" cy="110" rx="12" ry="18" fill="#2a78d6" opacity="0.20"/>
+  <path d="M354 114 L354 100" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="356" cy="76" r="24" fill="#1F2A37"/><path d="M375 71 L388 77 L374 83 Z" fill="#1F2A37"/><circle cx="364" cy="68" r="4.6" fill="#EFF2F5"/><path d="M361 82 Q368 91 375 82" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g>
+  <path d="M360 192 L366 244 L368 287" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M364 287 L394 287" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M368 140 L411 115 L384 78" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M384 78 L374 70" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"/>
+  <path d="M218 180 L292 180" fill="none" stroke="#2a78d6" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

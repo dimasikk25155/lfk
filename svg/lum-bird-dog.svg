@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Птица-собака">
+  <defs><marker id="ah" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 Z" fill="#d95926"/></marker></defs>
+  <rect width="480" height="360" fill="#EFF2F5"/>
+  <rect x="24" y="268" width="432" height="16" rx="8" fill="#DDE3E9"/>
+  <path d="M310 206 L360 210 L412 214" fill="none" stroke="#94A3B4" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M412 214 L424 232" fill="none" stroke="#94A3B4" stroke-width="11" stroke-linecap="round"/>
+  <path d="M208 202 L166 206 L124 210" fill="none" stroke="#94A3B4" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="282" cy="184" rx="34" ry="16" fill="#d95926" opacity="0.20"/>
+  <g data-torso="1"><path d="M206 198 L304 202" fill="none" stroke="#1F2A37" stroke-width="44" stroke-linecap="round"/><path d="M205 215 L303 219" fill="none" stroke="#C0524A" stroke-width="11" stroke-linecap="round"/><path d="M207 181 L305 185" fill="none" stroke="#3E6FA8" stroke-width="11" stroke-linecap="round"/></g>
+  <path d="M200 192 L184 172" fill="none" stroke="#1F2A37" stroke-width="14" stroke-linecap="round"/>
+  <g data-face="1"><circle cx="164" cy="150" r="24" fill="#1F2A37"/><g transform="rotate(180 164 150)"><path d="M183 145 L196 151 L182 157 Z" fill="#1F2A37"/><circle cx="172" cy="142" r="4.6" fill="#EFF2F5"/><path d="M169 156 Q176 165 183 156" fill="none" stroke="#EFF2F5" stroke-width="3.2" stroke-linecap="round"/></g></g>
+  <path d="M202 210 L200 240 L198 264" fill="none" stroke="#1F2A37" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="d" values="M212 210 L214 240 L216 264;M202 210 L200 240 L198 264;M202 210 L200 240 L198 264;M212 210 L214 240 L216 264" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M304 212 L306 240 L308 264" fill="none" stroke="#1F2A37" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="d" values="M310 214 L312 242 L314 264;M304 212 L306 240 L308 264;M304 212 L306 240 L308 264;M310 214 L312 242 L314 264" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M308 264 L342 264" fill="none" stroke="#1F2A37" stroke-width="11" stroke-linecap="round"><animate attributeName="d" values="M314 264 L348 264;M308 264 L342 264;M308 264 L342 264;M314 264 L348 264" keyTimes="0;0.35;0.65;1" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1" dur="3.2s" repeatCount="indefinite"/></path>
+  <path d="M110 226 L74 230" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+  <path d="M428 244 L456 250" fill="none" stroke="#d95926" stroke-width="6" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>
